@@ -43,4 +43,8 @@ Got to https://www.pushbullet.com/#settings -> Settings -> Account -> Access Tok
 10. And in windows Notification Tab, it will be shown like this 
     
     ![windowsToast](https://user-images.githubusercontent.com/11685096/117300934-b5e65d00-ae97-11eb-904c-b98dd0b171e2.jpg)
+11. In WhatsApp it will be show be like this 
+    
+    ![image](https://user-images.githubusercontent.com/11685096/117301394-3e64fd80-ae98-11eb-8e13-745e8b459e6f.png)
+
 
