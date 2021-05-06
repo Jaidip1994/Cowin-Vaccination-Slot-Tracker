@@ -8,7 +8,7 @@ Answer is via automation. So that was my Idea, I know cowin open APIs are presen
 
 ### Prerequisite 
 1. This script is written only for Windows based OS , especially windows 10.
-2. Python 3.5 > 
+2. Python 3.5+  
 3. Need to download PushBullet App https://www.pushbullet.com/, on your Android and Windows machine, so using this one type of notification will sent, and it will be synced across your configured devices
 4. After downloading the pushbullet app, you need to get the access token.
 Got to https://www.pushbullet.com/#settings -> Settings -> Account -> Access Token -> Create Access Token. Copy that and keep it aside.
@@ -22,7 +22,7 @@ Got to https://www.pushbullet.com/#settings -> Settings -> Account -> Access Tok
     -   access token created in step 5
     -   Whatsapp Group or Person's Name
     
-    ![pinv](Cowin-Vaccination-Slot-Tracker\utility\carbon.png)
+    ![Userdetails](https://user-images.githubusercontent.com/11685096/117300804-8df6f980-ae97-11eb-84bf-d442169063a8.png)
 8. Now run `cowinTracker.py` this will run infinetely for each Pincode & Paid Vaccination Center and it will identify whether any vacination slots are available or not after every 10mins interval
     ```shell
     $ python cowinTracker.py
@@ -38,6 +38,9 @@ Got to https://www.pushbullet.com/#settings -> Settings -> Account -> Access Tok
     Will Try after 10mins... 
     ```
 9. In Pushbullet App it will be sent like this 
-    ![PushBulletApp](Cowin-Vaccination-Slot-Tracker\utility\pushBullet.jpg)
-10. And in windows Notification Tab
-    ![Windows Notification](Cowin-Vaccination-Slot-Tracker\utility\windowsToast.jpg)
+    
+    ![pushBullet](https://user-images.githubusercontent.com/11685096/117300908-acf58b80-ae97-11eb-9920-c0cea8ee31da.jpg)
+10. And in windows Notification Tab, it will be shown like this 
+    
+    ![windowsToast](https://user-images.githubusercontent.com/11685096/117300934-b5e65d00-ae97-11eb-904c-b98dd0b171e2.jpg)
+
