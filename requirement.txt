@@ -1,0 +1,5 @@
+selenium
+datetime
+win10toast
+requests
+alive_progress
