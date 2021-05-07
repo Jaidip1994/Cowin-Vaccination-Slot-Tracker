@@ -57,6 +57,8 @@ while True:
             time.sleep(3)
             # Age 18+ Check Box
             driver.find_element_by_xpath("//label[contains(text(),'18')]").click()
+            #Paid
+            driver.find_element_by_xpath("//label[contains(text(),'Paid')]").click()
 
             datedetails = driver.find_elements_by_xpath("//slide//p")
             datelist = [datedetail.text for datedetail in datedetails]
