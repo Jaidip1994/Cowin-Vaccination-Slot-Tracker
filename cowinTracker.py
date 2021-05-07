@@ -40,9 +40,9 @@ def messageParse(dict_val):
     return final_message
 count = 1
 driver = webdriver.Chrome("utility\chromedriver.exe")
-# driver.get("https://web.whatsapp.com/")
+driver.get("https://web.whatsapp.com/")
 driver.maximize_window()
-# time.sleep(10)
+time.sleep(10)
 while True:
     print(f"Trying for {count} Times")
     driver.get("https://www.cowin.gov.in/home")
