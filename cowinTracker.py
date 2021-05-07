@@ -13,7 +13,7 @@ import json
 import pprint
 from alive_progress import alive_bar
 
-PINCODE_LIST = ["560066", "560020", "560030", "560011", "560078", "560017", "560084" ]
+PINCODE_LIST = ["560066", "560020", "560037", "560030", "560011", "560078", "560017", "560084" ]
 TOKEN = 'o.maWrkwmNzKLIoN0AgsChj95xdtiMXX3G'
 WHATSGRPORPERSONNAME = 'Sashu'
 
@@ -40,9 +40,9 @@ def messageParse(dict_val):
     return final_message
 count = 1
 driver = webdriver.Chrome("utility\chromedriver.exe")
-driver.get("https://web.whatsapp.com/")
+# driver.get("https://web.whatsapp.com/")
 driver.maximize_window()
-time.sleep(10)
+# time.sleep(10)
 while True:
     print(f"Trying for {count} Times")
     driver.get("https://www.cowin.gov.in/home")
@@ -50,12 +50,13 @@ while True:
     with alive_bar(len(PINCODE_LIST)) as bar:
         for indpincode in PINCODE_LIST:
             bar()
-            driver.find_element_by_xpath("//input[contains(@value, 18)]").click()
             pincode = driver.find_element_by_xpath("//input[@data-placeholder='Enter your PIN']")
             pincode.clear()
             pincode.send_keys(indpincode)
             pincode.send_keys(Keys.ENTER)
             time.sleep(3)
+            # Age 18+ Check Box
+            driver.find_element_by_xpath("//label[contains(text(),'18')]").click()
 
             datedetails = driver.find_elements_by_xpath("//slide//p")
             datelist = [datedetail.text for datedetail in datedetails]
