@@ -1,0 +1,101 @@
+center_id,name,district_name,block_name,pincode,from,to,fee_type,b45,a45
+722671,Suraksha Diag. Biswa Bangla,North 24 Parganas,Rajarhat,700156,10:00:00,17:00:00,Paid,True,True
+721284,Suraksha Daigs Chinar Park,North 24 Parganas,Bidhannagar Municipal Corporation,700157,09:00:00,16:30:00,Paid,True,True
+546510,Panihati Lok Sanskriti Bhawan,North 24 Parganas,Panihati Municipality,700114,09:00:00,23:30:00,Free,False,True
+546857,Barasat DH 1 PP Unit,North 24 Parganas,Barasat Municipality,700124,09:00:00,16:00:00,Free,False,True
+612711,Barasat Cancer R And W Centre,North 24 Parganas,Barasat Municipality,700124,09:00:00,18:00:00,Paid,True,True
+597369,Akaipur PHC COVAXIN,North 24 Parganas,Bongaon,743710,09:00:00,16:00:00,Free,False,True
+617736,Apollo Clinic Saltlake-SHLPL,North 24 Parganas,Bidhannagar Municipal Corporation,700064,16:00:00,18:00:00,Paid,True,True
+553868,S B S Mandir SGH 2,North 24 Parganas,Khardah Mnicipality,700116,09:00:00,16:00:00,Free,False,True
+546860,Bhatpara Sgh 2,North 24 Parganas,Bhatpara Municipality,743125,09:00:00,16:00:00,Free,False,True
+721413,Suraksha Diagnostics Sinthee,North 24 Parganas,Baranagar Municipality,700035,09:00:00,18:00:00,Paid,True,True
+734802,RAILWAY HOSP KPA -Own Proc,North 24 Parganas,Kanchrapara Municipality,743145,18:30:00,03:30:00,Free,False,True
+563196,CMSDH Session Site 6,North 24 Parganas,Kamarhati Municipality,700058,09:00:00,16:00:00,Free,False,True
+618138,Titagarh UPHC 1,North 24 Parganas,Titagarh Municipality,700157,09:00:00,16:00:00,Free,False,True
+721348,Suraksha Diagnostics Mall Road,North 24 Parganas,South Dum Dum Municipality,700074,09:00:00,16:30:00,Paid,True,True
+728686,Suraksha Diagnostics Kestopur,North 24 Parganas,Bidhannagar Municipal Corporation,700106,09:00:00,18:00:00,Paid,True,True
+574387,TECHNO GLOBAL HOSPITAL,North 24 Parganas,Barrackpore Municipality,700123,11:00:00,17:00:00,Paid,True,True
+724901,IQCityM-N24Pgs,North 24 Parganas,Rajarhat,700156,09:30:00,17:30:00,Paid,True,True
+640145,AMDANGA RH2,North 24 Parganas,Amdanga,743221,09:00:00,16:00:00,Free,False,True
+721360,Suraksha Diagnostics JC 21,North 24 Parganas,Bidhannagar Municipal Corporation,700106,09:00:00,16:30:00,Paid,True,True
+721303,Suraksha Diagnostics Khardha,North 24 Parganas,Khardah Mnicipality,700117,09:00:00,16:30:00,Paid,True,True
+592407,Dr J R Dhar SDH 1,North 24 Parganas,Bongaon Municipality,743235,09:00:00,16:00:00,Free,False,True
+624702,Millennium Health Care,North 24 Parganas,Bidhannagar Municipal Corporation,700064,10:30:00,16:00:00,Paid,True,True
+644741,CMSDH Session 7 EX 22,North 24 Parganas,Kamarhati Municipality,700058,12:00:00,19:00:00,Free,False,True
+553910,UPHC 3 MONIRAMPUR,North 24 Parganas,North Barrackpore Municipality,743144,09:00:00,16:00:00,Free,False,True
+644205,SDDM Municipal Hospital 2,North 24 Parganas,South Dum Dum Municipality,700074,10:00:00,16:00:00,Free,False,True
+718270,Techno India University,North 24 Parganas,Bidhannagar Municipal Corporation,700091,11:00:00,15:00:00,Paid,True,True
+560385,Bangaon UPHC 1 Palpara,North 24 Parganas,Bongaon Municipality,743235,09:00:00,16:00:00,Free,False,True
+721267,Suraksha Daigs Barrackpore,North 24 Parganas,Barrackpore Municipality,700120,09:00:00,16:30:00,Paid,True,True
+614303,Ashoknagar UPHC 1,North 24 Parganas,Ashoknagar Kalyangarh Municipality,743222,09:00:00,16:00:00,Free,False,True
+557692,Ashoknagar UPHC 2,North 24 Parganas,Ashoknagar Kalyangarh Municipality,743222,09:00:00,16:00:00,Free,False,True
+555120,Session 4 Physiology Dept,North 24 Parganas,Kamarhati Municipality,700058,09:00:00,16:00:00,Free,False,True
+660145,Reliable Diagnostic Polyclinic,North 24 Parganas,Bidhannagar Municipal Corporation,700135,10:30:00,15:00:00,Paid,True,True
+546859,Dr J R Dhar SDH 2,North 24 Parganas,Bongaon Municipality,743235,09:00:00,16:00:00,Free,False,True
+637781,Reckjoani BPHC 2,North 24 Parganas,Rajarhat,700135,09:00:00,16:30:00,Free,False,True
+712708,APOLLO CLINIC SODEPUR,North 24 Parganas,Panihati Municipality,700114,12:00:00,14:00:00,Paid,False,True
+559889,BINAYAK HOSPITAL,North 24 Parganas,Baranagar Municipality,700049,10:00:00,16:00:00,Paid,False,True
+622180,Subodh Mitra Cancer Hospital,North 24 Parganas,Bidhannagar Municipal Corporation,700106,11:00:00,15:00:00,Paid,True,True
+569068,ILS SALTLAKE,North 24 Parganas,Bidhannagar Municipal Corporation,700064,10:00:00,18:00:00,Paid,True,True
+564242,Habra SGH COVISHIELD,North 24 Parganas,Habra Municipality,743263,09:00:00,16:00:00,Free,False,True
+553882,Baranagar SGH 2,North 24 Parganas,Baranagar Municipality,700090,09:00:00,16:00:00,Free,False,True
+626462,Suraksha Diagonastics AryanTow,North 24 Parganas,Barasat II,700129,09:00:00,16:30:00,Paid,True,True
+546856,Naihati SGH 2,North 24 Parganas,Naihati Municipality,743165,09:00:00,16:00:00,Free,False,True
+721318,Suraksha Diagnostics Habra,North 24 Parganas,Habra Municipality,743263,09:00:00,16:30:00,Paid,True,False
+546524,Titagarh UPHC 2 HAU,North 24 Parganas,Titagarh Municipality,700119,09:00:00,16:00:00,Free,False,True
+718122,RAJIB GANDHI AYURVEDIC HOSP,North 24 Parganas,Bhatpara Municipality,743126,11:00:00,15:00:00,Paid,True,True
+626492,Suraksha Diagonastics DUMDUM S,North 24 Parganas,South Dum Dum Municipality,700090,09:00:00,16:30:00,Paid,True,True
+559936,Khardah UPHC 2 Charubala HAU,North 24 Parganas,Khardah Mnicipality,700117,09:00:00,16:00:00,Free,False,True
+553873,Salt Lake SDH 2,North 24 Parganas,Bidhannagar Municipal Corporation,700064,09:00:00,16:30:00,Free,True,True
+692224,CNCI New Town,North 24 Parganas,Rajarhat,700156,11:00:00,16:00:00,Free,False,True
+721177,Suraksha Diagnostics Bongaon,North 24 Parganas,Bongaon Municipality,743235,09:00:00,16:30:00,Paid,True,True
+626542,Suraksha Diag New Barrackpur,North 24 Parganas,New Barrackpore Municipality,700131,09:00:00,16:30:00,Paid,True,True
+626301,Suraksha Diagonastics PVT Ltd,North 24 Parganas,North Dum Dum Municipality,700051,09:00:00,16:30:00,Paid,True,True
+617726,Apollo Clinic Newtown-SHLPL,North 24 Parganas,Rajarhat,700156,11:30:00,17:30:00,Paid,True,True
+554571,Madhyamgram RH,North 24 Parganas,Barasat II,700129,09:00:00,16:00:00,Free,False,True
+582058,Barasat DH 2,North 24 Parganas,Barasat Municipality,700124,09:00:00,16:00:00,Free,False,True
+687145,NKDA VC Terminus Building,North 24 Parganas,Rajarhat,700156,09:00:00,16:00:00,Free,False,True
+655694,Biswanathpur Block Primary HC,North 24 Parganas,Deganga,743423,10:30:00,15:00:00,Free,False,True
+623335,Bongaon SDH SSH,North 24 Parganas,Bongaon Municipality,743235,09:00:00,16:00:00,Free,False,True
+609735,Patharghata PHC,North 24 Parganas,Rajarhat,700135,09:00:00,16:30:00,Free,False,True
+614747,BHATENDA HWC,North 24 Parganas,Rajarhat,700135,09:00:00,16:30:00,Free,False,True
+592403,Panihati SGH 1,North 24 Parganas,Panihati Municipality,700110,09:00:00,16:00:00,Free,False,True
+559319,TECHNO INDIA DAMA,North 24 Parganas,Bidhannagar Municipal Corporation,700106,09:30:00,18:00:00,Paid,True,True
+555133,Session 5 Central Library,North 24 Parganas,Kamarhati Municipality,700058,09:00:00,16:00:00,Free,False,True
+611282,Narayana M Hospital,North 24 Parganas,Barasat Municipality,700128,09:30:00,15:30:00,Paid,True,False
+721431,Suraksha Diagnostics Sodepur,North 24 Parganas,Panihati Municipality,700110,09:00:00,16:30:00,Paid,True,True
+553680,Panihati SGH 2,North 24 Parganas,Panihati Municipality,700110,09:00:00,16:00:00,Free,False,True
+595734,S B S Mandir SGH 1,North 24 Parganas,Khardah Mnicipality,700116,09:00:00,16:00:00,Free,False,True
+558374,UPHC 4 Shyamnagar,North 24 Parganas,Bhatpara Municipality,743126,09:00:00,16:00:00,Free,False,True
+555080,Session 1 Academic Building,North 24 Parganas,Kamarhati Municipality,700058,09:00:00,16:00:00,Free,False,True
+592187,Baranagar SGH 1,North 24 Parganas,Baranagar Municipality,700090,09:00:00,16:00:00,Free,False,True
+614729,Barasat DH Ex 11,North 24 Parganas,Barasat Municipality,700124,09:00:00,16:00:00,Free,False,True
+632469,Naihati Matri Sadan,North 24 Parganas,Naihati Municipality,743165,09:00:00,18:00:00,Free,False,True
+595720,Naihati SGH 1,North 24 Parganas,Naihati Municipality,743165,09:00:00,16:00:00,Free,False,True
+618127,North Barrackpore UPHC 2,North 24 Parganas,North Barrackpore Municipality,743125,09:00:00,16:00:00,Free,False,True
+721238,Suraksha Diagnostics Bhatpara,North 24 Parganas,Bhatpara Municipality,700128,09:00:00,16:30:00,Paid,True,True
+721394,Suraksha Diagnostics Dunlop,North 24 Parganas,Baranagar Municipality,700035,09:00:00,16:30:00,Paid,True,True
+555092,Session 2 Academic Building,North 24 Parganas,Kamarhati Municipality,700058,09:00:00,16:00:00,Free,False,True
+569079,ILS DUMDUM,North 24 Parganas,Dum Dum Municipality,700028,09:00:00,12:00:00,Paid,True,True
+592216,Ashoknagar SGH 1,North 24 Parganas,Ashoknagar Kalyangarh Municipality,743222,09:00:00,16:00:00,Free,False,True
+592419,Bhatpara SGH 1,North 24 Parganas,Bhatpara Municipality,743125,09:00:00,16:00:00,Free,False,True
+614844,Dr BN Bose SDH Ex 11,North 24 Parganas,Barrackpore Municipality,700123,09:00:00,16:00:00,Free,False,True
+629734,CMSDH Ss 7 Central Libraray 2,North 24 Parganas,Kamarhati Municipality,700058,12:00:00,18:30:00,Free,False,True
+597351,Chowberia PHC COVAXIN,North 24 Parganas,Bongaon,743290,09:00:00,16:00:00,Free,False,True
+555105,Session 3 Lecture Theater,North 24 Parganas,Kamarhati Municipality,700058,09:00:00,16:00:00,Free,False,True
+716286,Columbia Asia Hosp.,North 24 Parganas,Bidhannagar Municipal Corporation,700106,09:00:00,18:00:00,Paid,False,True
+553683,Habra SGH 2,North 24 Parganas,Habra Municipality,743263,09:00:00,16:00:00,Free,False,True
+721219,Suraksha Diagnostics Barasat,North 24 Parganas,Barasat Municipality,700124,09:00:00,16:30:00,Paid,True,True
+595150,ORD FACTORY HOSP ICHAPUR,North 24 Parganas,North Barrackpore Municipality,743144,09:00:00,16:00:00,Free,False,True
+592308,Dr B N Bose SDH 1,North 24 Parganas,Barrackpore Municipality,700123,09:00:00,16:00:00,Free,False,True
+546861,Dr BN Bose SDH 2,North 24 Parganas,Barrackpore Municipality,700123,09:00:00,16:00:00,Free,False,True
+713096,Apollo Clinic Chinar Park,North 24 Parganas,Bidhannagar Municipal Corporation,700157,10:00:00,14:00:00,Paid,True,True
+554109,Reckjoani BPHC,North 24 Parganas,Rajarhat,700135,09:00:00,16:30:00,Free,False,True
+618106,Garulia UPHC 1 ESOPD Build,North 24 Parganas,Garulia Municipality,743127,09:00:00,16:00:00,Free,False,True
+570336,Ashoknagar SGH 2,North 24 Parganas,Ashoknagar Kalyangarh Municipality,743222,09:00:00,16:00:00,Free,False,True
+546513,Khardah UPHC1 Morol Para Hau,North 24 Parganas,Khardah Mnicipality,700117,09:00:00,16:00:00,Free,False,True
+546522,Garulia Water Tank Compound,North 24 Parganas,Garulia Municipality,743133,09:00:00,16:00:00,Free,False,True
+609728,Chandpur PHC R,North 24 Parganas,Rajarhat,700135,09:00:00,16:30:00,Free,False,True
+614707,Barasat DH Ex 1,North 24 Parganas,Barasat Municipality,700124,09:00:00,16:00:00,Free,False,True
+550396,Salt Lake SDH Ex 1,North 24 Parganas,Bidhannagar Municipal Corporation,700064,09:00:00,18:00:00,Free,False,True
+614819,Salt Lake SDH Ex 11,North 24 Parganas,Bidhannagar Municipal Corporation,700064,09:00:00,18:00:00,Free,True,False

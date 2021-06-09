@@ -105,7 +105,7 @@ while True:
     time.sleep(5)            
 
     # pprint.pprint(availableHospital)
-    print("Will Try after 10mins...")
-    time.sleep(600)
+    print("Will Try after 10Sec...")
+    time.sleep(60)
     count+=1
 

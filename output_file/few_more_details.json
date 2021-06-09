@@ -1,0 +1,2939 @@
+{
+    "slots_per_hospital": {
+        "721318": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "06-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721177": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "06-06-2021",
+                "available_capacity": 10,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 10
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "632469": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546510": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "718270": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 16,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 16
+            },
+            {
+                "date": "06-06-2021",
+                "available_capacity": 802,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 802,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 351,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 351,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 491,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 491,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 1036,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1036,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 1344,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1344,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 1328,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1328,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 1209,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1209,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "12-06-2021",
+                "available_capacity": 1175,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1175,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "12-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "612711": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "06-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 1
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 10,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 9
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 31,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 31
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 15,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 15
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 38,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 38
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 38,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 38
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 13,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 13
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 28,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 28
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 8,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 8
+            }
+        ],
+        "721348": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "618867": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "622180": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "673805": [
+            {
+                "date": "06-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "614303": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721303": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 4,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 4
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 3,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 3
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721431": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 3,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 3
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "555092": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721267": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 1
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "614844": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "557692": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "555120": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "722671": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 20,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 20
+            }
+        ],
+        "574387": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 48,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 48
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 49,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 49
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 50,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 50
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 51,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 50
+            }
+        ],
+        "721219": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "555080": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "553680": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "629734": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "626301": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 4,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 4
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 2,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 2
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "626462": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 4,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 4
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 4,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 4
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 3,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 3
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546856": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546513": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721413": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 1
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "595720": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "673731": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "592216": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "592407": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "626492": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "626542": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 4,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 4
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 2,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 2
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 3,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 3
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "569068": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "595734": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "564242": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "623335": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "614707": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "614747": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "12-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "569079": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546522": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "560385": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "554109": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "12-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "611282": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "555105": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "553683": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "713096": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "592403": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721360": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 3,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 3
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546860": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "592419": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "614729": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "617726": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 87,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 87
+            }
+        ],
+        "721284": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "555133": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "637781": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "12-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721394": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "609735": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "12-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "718122": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "595150": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "721238": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            }
+        ],
+        "559889": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 14,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 14
+            }
+        ],
+        "570336": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "624702": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 5,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 5
+            }
+        ],
+        "649685": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "728686": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 110,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 109
+            },
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "582058": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "553882": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "618106": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "687894": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "716286": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546859": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "592187": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "560408": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "609728": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "10-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "11-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "12-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "673682": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "559936": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "644741": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546857": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "553878": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "592308": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "724901": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 2020,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1920,
+                "available_capacity_dose2": 100
+            }
+        ],
+        "558374": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "617736": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 1,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 1,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "546861": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "550396": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "553868": [
+            {
+                "date": "07-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVAXIN",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ],
+        "712708": [
+            {
+                "date": "08-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 18,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            },
+            {
+                "date": "09-06-2021",
+                "available_capacity": 0,
+                "min_age_limit": 45,
+                "vaccine": "COVISHIELD",
+                "available_capacity_dose1": 0,
+                "available_capacity_dose2": 0
+            }
+        ]
+    },
+    "fee_per_hospital": {
+        "721318": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "721177": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "718270": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "1000"
+            }
+        ],
+        "612711": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "800"
+            }
+        ],
+        "721348": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "622180": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "1000"
+            }
+        ],
+        "721303": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "721431": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "721267": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "722671": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "574387": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "1000"
+            }
+        ],
+        "721219": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "626301": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "626462": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "721413": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "626492": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "626542": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "569068": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "850"
+            }
+        ],
+        "569079": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "850"
+            }
+        ],
+        "611282": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "630"
+            }
+        ],
+        "713096": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "850"
+            }
+        ],
+        "721360": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "617726": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "850"
+            }
+        ],
+        "721284": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "721394": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "718122": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "1000"
+            }
+        ],
+        "721238": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "559889": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "950"
+            }
+        ],
+        "624702": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "850"
+            }
+        ],
+        "728686": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "900"
+            }
+        ],
+        "716286": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "1100"
+            }
+        ],
+        "724901": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "950"
+            }
+        ],
+        "617736": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "850"
+            }
+        ],
+        "712708": [
+            {
+                "vaccine": "COVISHIELD",
+                "fee": "850"
+            }
+        ]
+    },
+    "pincode_dose_wise_count": {
+        "firstDose": [
+            700091,
+            700124,
+            700074,
+            700123,
+            700090,
+            700064,
+            700128,
+            700106,
+            700155
+        ],
+        "secondDose": [
+            743263,
+            743235,
+            700091,
+            700124,
+            700117,
+            700110,
+            700120,
+            700156,
+            700123,
+            700051,
+            700129,
+            700035,
+            700131,
+            700106,
+            700128,
+            700049,
+            700064,
+            700155
+        ]
+    },
+    "dict_with_hospital_data": [
+        "COVISHIELD",
+        "COVAXIN"
+    ]
+}
