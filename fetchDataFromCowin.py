@@ -27,7 +27,7 @@ parser = argparse.ArgumentParser(description="Vaccination Tracker" ,
 parser.add_argument('DistrictCode',
                        metavar='-d',
                        type=str,
-                       help='District Code details')
+                       help='District Code details', default= 730)
 
 args = parser.parse_args()
 districtCode = args.DistrictCode
@@ -72,12 +72,20 @@ def fetchAndStoreDataFromCowin():
     dict_with_hospital_data['fee_per_hospital'] = final_fee_per_hospital
     dict_with_hospital_data['pincode_dose_wise_count'] = pincode_dose_wise_count
     dict_with_hospital_data['dict_with_hospital_data'] = list(vaccine_names)
+    with open('./output_file/few_more_details.json', 'w') as fp:
+        json.dump(dict_with_hospital_data, fp)
 
 
-def _proccess_per_age(center_id, df_per_age, age_slot, final_fee_per_hospital, df, available_slots):
+def _proccess_per_age(center_id, df_per_age, age_slot, final_fee_per_hospital, df, available_slots, vaccine_type = None):
     dose1_df = df_per_age[df_per_age['available_capacity_dose1'] > 0]
     dose2_df = df_per_age[df_per_age['available_capacity_dose2'] > 0]
     message_string = None
+
+    if not dose1_df.empty and vaccine_type:
+        dose1_df = dose1_df[dose1_df['vaccine'] == vaccine_type]
+    if not dose2_df.empty and vaccine_type:
+        dose2_df = dose2_df[dose2_df['vaccine'] == vaccine_type]
+
     if not dose1_df.empty or not dose2_df.empty:
         hospital_data = df[df['center_id'] == center_id].copy()
         message_string = f'[{age_slot}][{hospital_data.pincode.values[0]}]\n\n'
@@ -107,10 +115,10 @@ def _proccess_per_age(center_id, df_per_age, age_slot, final_fee_per_hospital, d
         available_slots.append(message_string)
 
 
-def dose_processing(center_id_with_slot, final_fee_per_hospital, df):
+def dose_processing(center_id_with_slot, final_fee_per_hospital, df, vaccine_type = None):
     available_slots = []
     for key, value in center_id_with_slot.items():
         temp_df = pd.DataFrame.from_dict(value)
-        _proccess_per_age(int(key), temp_df[temp_df['min_age_limit'] == 18], 18, final_fee_per_hospital, df, available_slots)
-        _proccess_per_age(int(key), temp_df[temp_df['min_age_limit'] == 45], 45, final_fee_per_hospital, df, available_slots)
+        _proccess_per_age(int(key), temp_df[temp_df['min_age_limit'] == 18], 18, final_fee_per_hospital, df, available_slots, vaccine_type)
+        _proccess_per_age(int(key), temp_df[temp_df['min_age_limit'] == 45], 45, final_fee_per_hospital, df, available_slots, vaccine_type)
     return available_slots
